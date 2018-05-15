@@ -23,8 +23,8 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary></summary>
-		<description></description>
-		<disclaimer></disclaimer>
+		<description>OOLP</description>
+		<disclaimer>OOLP</disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>
