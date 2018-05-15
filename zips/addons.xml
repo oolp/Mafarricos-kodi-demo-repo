@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <addons>
 <addon id="plugin.program.plk" name="PLK" version="2.02" provider-name="OOLP">
   <requires>
