@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.demo.kodi" name="Demonstration repository" version="0.0.2" provider-name="Mafarricos">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.oolp.plk" name="PLK Updater" version="0.0.1" provider-name="oolp">
 	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
-		<info compressed="false">http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/addons.xml</info>
-		<checksum>http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/repo/</datadir>
+		<info compressed="false">http://raw.github.com/oolp/oolpplk/master/addons.xml</info>
+		<checksum>http://raw.github.com/oolp/oolpplk/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/oolp/oolpplk/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Demonstration Addon</summary>
-		<description>Addon Description</description>
+		<summary></summary>
+		<description></description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
